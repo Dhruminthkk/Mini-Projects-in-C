@@ -1,5 +1,5 @@
 # Mini-Projects-in-C
 
-Pin Authentication System to authenticate the pin.
+Pin Authentication System to authenticate.
 
-Tic Tac Toe game developed in C programming language for console screen.It is just a basic game to develop the skills. 
+Tic Tac Toe game developed in C programming language for console screen.
